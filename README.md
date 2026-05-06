@@ -1,5 +1,5 @@
-# Google-Earth-Engine-Web-App
-Google Earth Engine Web App Assignment. Calculates Land Surface Temperature (LST), NDVI & AlphaEarth in Melbourne. 
+# RMIT Cloud GIS: GEE App & Cesium App
+
 
 ## Project Details
 **Author:** Luke Pattison  
